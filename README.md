@@ -4,9 +4,6 @@
 Hola aqui!
 Estefania Bermudez Alvarez 👋
 
-<!--
-**teffidev/teffidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 😄 Soy Administradora de Empresas
 - 🌱 Actualmente estoy aprendiendo Desarrollo Full Stack - Digital House
 

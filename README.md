@@ -1,16 +1,16 @@
-
-![descarga](https://user-images.githubusercontent.com/89166860/165837530-9e2c7115-6dc9-44c9-a13d-837e69b9a3c8.png)
+![faviconEBA](https://user-images.githubusercontent.com/89166860/165838573-009b815c-60da-4b65-b295-8d96f7c85468.png)
 
 Hola aqui!
 Estefania Bermudez Alvarez 👋
 
-- 😄 Soy Administradora de Empresas
-- 🌱 Actualmente estoy aprendiendo Desarrollo Full Stack - Digital House
 
-- ⚡ Conocimientos en:
---> HTML
---> CSS
---> Comandos de Git Bash y Powershell
---> Metodologias Agiles
---> MySQL
---> Inicios de JavaScript
+😄 Administradora de Empresas
+🌱 Actualmente aprendiendo Desarrollo Full Stack - Digital House
+
+⚡ Conocimientos en:
+* HTML
+* CSS
+* Comandos de Git Bash y Powershell
+* Metodologias Agiles
+* MySQL
+* Inicios de JavaScript

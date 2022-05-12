@@ -15,4 +15,5 @@ Estefania Bermudez Alvarez 👋
 * Comandos de Git Bash y Powershell
 * Metodologias Agiles
 * MySQL
+* Programación Imperativa
 * Inicios de JavaScript

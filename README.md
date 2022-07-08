@@ -1,11 +1,11 @@
-Hola 👋
+Hola amigos!👋
 
 
-😄 Administradora de Empresas.
+😄 Aqui una Administradora de Empresas.
 
-🌱 Actualmente aprendiendo Desarrollo Full Stack - Digital House.
+🌱 Estoy Actualmente aprendiendo Desarrollo Full Stack - Digital House.
 
-⚡ Conocimientos:
+⚡ Mis Conocimientos:
 * HTML
 * CSS
 * Comandos de Git Bash y Powershell

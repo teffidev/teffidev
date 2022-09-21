@@ -7,14 +7,14 @@ Hola amigos!👋
 
 ⚡ Mis Conocimientos:
 
-* HTML
-* CSS
-* Comandos de Git Bash y Powershell
-* Metodologias Agiles
+* HTML5
+* CSS3
+* GIT
 * MySQL
-* Programación Imperativa
-* Inicios de JavaScript
+* JavaScript
 * Testing
-* POO en Java
-* Conocimientos en Scrum
+* POO con Java
+* Salesforce
+* Scrum
+* Metodologias Agiles
 * PMP

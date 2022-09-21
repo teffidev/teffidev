@@ -1,11 +1,11 @@
 Hola amigos!👋
 
 
-😄 Aqui una Administradora de Empresas..
+😄 Aqui una Administradora de Empresas...
 
-🌱 Estoy Actualmente aprendiendo Desarrollo en Digital House.
+🌱 Actualmente me encuentro realizando la certificación de Programación Web Full Stack en Digital House.
 
-⚡ Mis Conocimientos:
+⚡ Tech Skills:
 
 * HTML5
 * CSS3
@@ -18,3 +18,14 @@ Hola amigos!👋
 * Scrum
 * Metodologias Agiles
 * PMP
+
+
+⚡ Soft Skills:
+* Scrum
+* Agile
+* Teamwork
+* Honest
+* Responsible
+* Skilled
+* Enterprising
+* Learn fast

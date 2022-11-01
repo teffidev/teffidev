@@ -4,6 +4,7 @@ Hola amigos!👋
 😄 Aqui una Administradora de Empresas...
 
 🌱 Actualmente me encuentro realizando la certificación de Programación Web Full Stack en Digital House.
+
 🌱 Y realizando la certificación de Sales Administrator con WomenForceIT para Salesforce.
 
 ⚡ Tech Skills:

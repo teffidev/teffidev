@@ -1,34 +1,48 @@
 Hola amigos!👋
 
+😄 Administradora de Empresas, con experiencia en ejecutar, planificar, diseñar y
+transformar proyectos de manera óptima y recursiva.
 
-😄 Aqui una Administradora de Empresas... incursionando en el mundo IT-
+🌱 Actualmente me encuentro cursando una Certificación de desarrollo en Digital House, 
+donde he tenido la oportunidad de aprender de manera gradual todo lo relacionado con
+las tecnologías, Metodologías Ágiles y algunos lenguajes de programación.
 
-🌱 Actualmente me encuentro realizando la certificación de Programación Web Full Stack en Digital House.
+❤  Me apasiona la tecnología, el diseño, la implementación de productos digitales
+enfocados al crecimiento de la compañía, desde sus aplicaciones web, clienteservidor, 
+bases de datos y hasta una buena experiencia de usuario. 
 
-🌱 Y realizando la certificación de Sales Administrator con WomenForceIT para Salesforce.
 
-
-⚡ Tech Skills:
-
+⚡ Technical skills:
 * HTML5
 * CSS3
 * GIT
-* MySQL
 * JavaScript
+* NodeJS
+* Java
+* Maven
+* Springboot
+* POO
+* Java
 * Testing
-* POO con Java
+* Cloud Computing
+* Terraform
+* Docker
+* UI/UX
 * Salesforce
+
+⚡ Methodological skills:
+* Lean
+* Kanban
 * Scrum
-* Metodologias Agiles
-* PMP
+* Learning Agility
+* Design Thinking
 
 
-⚡ Soft Skills:
-* Scrum
-* Agile
-* Teamwork
-* Honest
-* Responsible
-* Skilled
-* Enterprising
-* Learn fast
+⚡ Soft skills:
+* Trabajo en equipo
+* Positivia
+* Responsable
+* Enfocada al detalle
+* Emprendedora
+* Proactiva
+* Manejo de tareas múltiples

@@ -46,3 +46,6 @@ bases de datos y hasta una buena experiencia de usuario.
 * Emprendedora
 * Proactiva
 * Manejo de tareas múltiples
+
+
+https://www.adslzone.net/app/uploads-adslzone.net/2019/04/borrar-fondo-imagen.jpg

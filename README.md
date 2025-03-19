@@ -36,9 +36,19 @@ Con experiencia en el desarrollo de aplicaciones web. He trabajado en proyectos 
 ---
 
 ### Me puedes encontrar en 🌍
-https://www.linkedin.com/in/teffidev/
+- [LinkedIn](https://www.linkedin.com/in/teffidev/)
+- [Instagram](https://www.instagram.com/teffi_dev/)
 
 <br/>
 
+---
 
+Conectémonos 👨‍💻 y forjemos el futuro juntos.😁✌
 
+**Revisa los Repositorios y no olvides dar una estrella.** 👇
+
+:star: From [teffidev](https://github.com/teffidev/teffidev)
+
+<br />
+
+---

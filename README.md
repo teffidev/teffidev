@@ -1,7 +1,11 @@
 Hola amigos!👋
 
-😄 Administradora de Empresas, con experiencia en ejecutar, planificar, diseñar y
-transformar proyectos de manera óptima y recursiva.
+😄 Programadora con experiencia en planificación, diseño y
+optimización de proyectos tecnológicos. Especializada en
+desarrollo Front-end, metodologías ágiles y mejora de
+aplicaciones web. Apasionada por crear soluciones innovadoras
+que potencien el crecimiento empresarial y la experiencia del
+usuario.
 
 🌱 Actualmente me encuentro cursando una Certificación de desarrollo en Digital House, 
 donde he tenido la oportunidad de aprender de manera gradual todo lo relacionado con

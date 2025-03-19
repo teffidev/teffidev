@@ -9,7 +9,7 @@
 
 Soy Programadora Front-end desde 2021.
 <br />
-Con experiencia en el desarrollo de aplicaciones web. He trabajado en proyectos personales y en dos startups creando páginas para clientes internacionales, donde he contribuido en la planificación, diseño y optimización de soluciones tecnológicas. A lo largo de mi carrera, he fortalecido mis habilidades en la mejora continua de aplicaciones, lo que me ha permitido crecer profesionalmente y ampliar mi expertise. Me apasiona crear soluciones innovadoras que impulsen el crecimiento empresarial y mejoren la experiencia del usuario.
+Con experiencia en el desarrollo de aplicaciones web. He trabajado en proyectos personales y en algunas startups creando páginas para clientes internacionales, donde he contribuido en la planificación, diseño y optimización de soluciones tecnológicas. A lo largo de mi carrera, he fortalecido mis habilidades en la mejora continua de aplicaciones, lo que me ha permitido crecer profesionalmente y ampliar mi expertise. Me apasiona crear soluciones innovadoras que impulsen el crecimiento empresarial y mejoren la experiencia del usuario.
 
 ---
 
@@ -38,8 +38,6 @@ Con experiencia en el desarrollo de aplicaciones web. He trabajado en proyectos 
 ### Me puedes encontrar en 🌍
 - [LinkedIn](https://www.linkedin.com/in/teffidev/)
 - [Instagram](https://www.instagram.com/teffi_dev/)
-
-<br/>
 
 ---
 

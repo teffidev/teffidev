@@ -1,19 +1,21 @@
-### Hola, soy Estefanía Bermúdez 👋
+## Hi there! I'm Teffi 👋
 ---
 
-![Profile LinkedIn Teff](https://github.com/user-attachments/assets/acbbb7ed-8f33-4a6b-8686-f1706e71d655)
+![BannerLinkedIn Teff](https://github.com/user-attachments/assets/fe07eef2-409b-456e-9279-4a311165f76b)
 
 ---
 
-### Acerca de mi
 
-Soy Programadora Front-end desde 2021.
+### About me
+
+I'm a Front-end Programmer since 2021.
 <br />
-Con experiencia en el desarrollo de aplicaciones web. He trabajado en proyectos personales y en algunas startups creando páginas para clientes internacionales, donde he contribuido en la planificación, diseño y optimización de soluciones tecnológicas. A lo largo de mi carrera, he fortalecido mis habilidades en la mejora continua de aplicaciones, lo que me ha permitido crecer profesionalmente y ampliar mi expertise. Me apasiona crear soluciones innovadoras que impulsen el crecimiento empresarial y mejoren la experiencia del usuario.
+Whit experience in web application development. I have worked in personal projects and in some startups creating sites for international clients, where I have contributed in the planning, design and optimization of technological solutions.
+Throughout my career, I have enhanced my skills in the continuous improvement of applications, wich has allowed me to grow professionally and expand my knowledge. I'm passionate about creating innovative solutions that drive business growth and improve user experience.
 
 ---
 
-### Lenguajes y herramientas
+### Languages & tools
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
@@ -33,15 +35,20 @@ Con experiencia en el desarrollo de aplicaciones web. He trabajado en proyectos 
 
 ---
 
-### Me puedes encontrar en 🌍
+### You can find me at 🌍
 - [LinkedIn](https://www.linkedin.com/in/teffidev/)
 - [Instagram](https://www.instagram.com/teffi_dev/)
 
 ---
 
-Conectémonos 👨‍💻 y forjemos el futuro juntos.😁✌
+### Portfolio 📎
+https://portfolio-tef.vercel.app/
 
-**Revisa los Repositorios y no olvides dar una estrella.** 👇
+---
+
+Let's connect 👨‍💻 and build a new future together.😁✌
+
+**Check my repos and don't forget to give me a star.** 👇
 
 :star: From [teffidev](https://github.com/teffidev/teffidev)
 
